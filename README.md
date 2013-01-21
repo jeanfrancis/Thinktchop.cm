@@ -1,5 +1,5 @@
-#[![Build Status](https://secure.travis-ci.org/danielweinmann/catarse.png?branch=master)](https://travis-ci.org/danielweinmann/catarse) 
-## An open source crowdfunding platform for Agro projects in Cameroon
+
+## An open source crowdfunding platform for Agro/Food projects in Cameroon
 
 ## License
 
